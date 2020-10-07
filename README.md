@@ -1,7 +1,7 @@
 Status: Pre-Alpha
 
-Alpha Release: October 24
+Alpha Release: Mid to late November
 
-Beta Release: November 07
+Beta Release: TBD
 
-Public Release: Early December
+Public Release: TBD
