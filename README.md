@@ -1,6 +1,6 @@
 Status: Pre-Alpha
 
-Alpha Release: Mid to late November
+Alpha Release: Quarter 1 - 2021
 
 Beta Release: TBD
 
